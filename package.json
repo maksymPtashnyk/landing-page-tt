@@ -20,6 +20,7 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://maksymptashnyk.github.io/landing-page-tt/",
   "eslintConfig": {
     "extends": [
       "react-App",

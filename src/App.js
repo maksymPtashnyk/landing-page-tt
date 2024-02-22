@@ -7,7 +7,7 @@ function App() {
     <BrowserRouter>
       <div>
         <Routes>
-          <Route path="/" exact element={<Home />} /> 
+          <Route path="/landing-page-tt" exact element={<Home />} /> 
         </Routes>
       </div>
     </BrowserRouter>
