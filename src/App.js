@@ -4,7 +4,7 @@ import Home from '../src/pages/Home';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/landing-page-tt">
       <div>
         <Routes>
           <Route path="/" exact element={<Home />} /> 
