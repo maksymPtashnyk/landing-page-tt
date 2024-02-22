@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/landing-page-tt/static/css/main.44fc45be.css",
+    "main.js": "/landing-page-tt/static/js/main.8bf49246.js",
+    "static/media/MuseoSansCyrl-500.ttf": "/landing-page-tt/static/media/MuseoSansCyrl-500.4a7ab6cebbb2ceac67d4.ttf",
+    "static/media/MuseoSansCyrl-700.ttf": "/landing-page-tt/static/media/MuseoSansCyrl-700.d517f62e41d9a4dab324.ttf",
+    "static/media/entypo_chevron-small-down.svg": "/landing-page-tt/static/media/entypo_chevron-small-down.f1c1952c96c883df8492.svg",
+    "index.html": "/landing-page-tt/index.html",
+    "main.44fc45be.css.map": "/landing-page-tt/static/css/main.44fc45be.css.map",
+    "main.8bf49246.js.map": "/landing-page-tt/static/js/main.8bf49246.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44fc45be.css",
+    "static/js/main.8bf49246.js"
+  ]
+}
